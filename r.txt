@@ -1,0 +1,6 @@
+decorator==4.4.2
+EasyProcess==0.2.10
+entrypoint2==0.2
+keyboard==0.13.4
+Pillow==7.0.0
+pyscreenshot==1.0
